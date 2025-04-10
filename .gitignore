@@ -5,6 +5,10 @@ npm-debug.log
 createSuperAdmin.js
 hashPasswords.js
 public/
-backEnv/
+backEnv
+backEnv.js
+backEnv.js.map
+README.md
+
 
 
